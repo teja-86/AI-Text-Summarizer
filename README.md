@@ -41,4 +41,19 @@ In an era where information overload is a common challenge, the ability to swift
 - **Node.js & Express.js**: For building a robust backend.
 - **Replit**: For providing a seamless development environment.
 
+## Installation
+
+Follow these steps to clone and set up the project locally.
+
+### Clone the Repository
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+
+```bash
+git clone https://github.com/teja-86/AI-Text-Summarizer.git
+
+cd teja-86/AI-Text-Summarizer and start working on it.......
+
 I am excited about the possibilities this project opens up and look forward to exploring further enhancements. Your feedback and suggestions are most welcome!

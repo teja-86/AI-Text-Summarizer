@@ -4,6 +4,57 @@
 
 The **AI Text Summarizer** is an innovative web application designed to transform extensive and intricate pieces of text into concise and coherent summaries. Leveraging advanced machine learning models, this application provides users with the ability to quickly derive meaningful insights from lengthy documents, articles, and other text-based content, enhancing productivity and comprehension.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Key Features](#key-features)
+- [Why This Project Matters](#why-this-project-matters)
+- [Future Enhancements](#future-enhancements)
+- [Usage](#usage)
+- [Acknowledgments](#acknowledgments)
+- [Installation](#installation)
+- [Contributing](#contributing)
+
+## Features
+
+ ### Text Summarization
+ 
+- **Advanced Machine Learning Models:**
+  
+  Utilizes state-of-the-art models to generate accurate and coherent summaries from extensive text. Supports summarization of various document types, including articles,       reports, and essays.
+  
+- **Customizable Summary Length:**
+
+  Allows users to specify the desired length of the summary. Provides options for short, medium, or long summaries based on user needs.
+
+ ### User Interface
+
+- **Intuitive Design:**
+
+  User-friendly interface for easy text input and summary generation. Provides a clear and organized layout for displaying original text and generated summaries.
+
+- **Text Input Methods:**
+
+  Supports multiple input methods including copy-paste, file uploads (e.g., .txt, .pdf), and direct text entry.
+
+  ### Performance and Efficiency
+
+- **Fast Processing:**
+
+  Optimized for quick summarization of large texts. Minimizes wait times and enhances user experience.
+
+- **High Accuracy:**
+
+  Delivers high-quality summaries with accurate representation of the original text. Continuously improves through advanced machine learning techniques.
+
+  ### Integration and API Access
+
+- **API Access:**
+
+  Offers API access for integrating summarization capabilities into other applications or services. Provides documentation and support for developers.
+  
+
 ## Technologies Used
 
 - **Node.js & Express.js**: Used to build a robust and scalable server-side application, handling API requests and integrating with the Hugging Face Inference API.
@@ -57,3 +108,14 @@ git clone https://github.com/teja-86/AI-Text-Summarizer.git
 cd teja-86/AI-Text-Summarizer and start working on it.......
 
 I am excited about the possibilities this project opens up and look forward to exploring further enhancements. Your feedback and suggestions are most welcome!
+```
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/YourFeature`.
+3. Make your changes and commit them: `git commit -m 'Add Your Feature'`.
+4. Push to the branch: `git push origin feature/YourFeature`.
+5. Open a Pull Request.
